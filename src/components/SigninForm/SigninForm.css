@@ -1,0 +1,5 @@
+input::-webkit-input-placeholder {
+    font-size: 14px;
+    line-height: 4;
+    color: #B3B1B1;
+}
